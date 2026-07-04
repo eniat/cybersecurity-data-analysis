@@ -24,13 +24,13 @@ Python, Jupyter Notebook, pandas, NumPy, matplotlib, scikit-learn
 ├── analysis.ipynb       # Main analysis notebook
 ├── csvi_data.json       # Sector, organisation, and CVE exposure data
 ├── csvi_cves.json       # CVE attributes used for scoring
-├── SCC-354-Report.pdf   # Full written report and stakeholder brief
+├── Report.pdf   # Full written report and stakeholder brief
 └── README.md
 ```
 
 ## Report
 
-The repository includes `SCC-354-Report.pdf`, which documents the full analysis behind the notebook.
+The repository includes `Report.pdf`, which documents the full analysis behind the notebook.
 
 The report explains the objective, data cleaning decisions, exploratory analysis, risk scoring, at-risk organisation rules, KMeans clustering, CVE co-occurrence results, stakeholder recommendations, and limitations.
 
