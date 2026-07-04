@@ -1,5 +1,7 @@
 # CSVI Vulnerability Risk Analysis
 
+**Dataset notice:** The JSON files in this repository are small synthetic example datasets created for portfolio demonstration. They do not contain real organisation data, live asset data, personal data, credentials, or confidential vulnerability information.
+
 Notebook-based vulnerability risk analysis using supplied CSVI data across six UK sectors and fifty organisations.
 
 The project cleans and validates CVE data, scores organisation-level exposure, identifies at-risk organisations, clusters CVEs by severity and exploitation likelihood, and highlights common CVE patterns across organisations.
